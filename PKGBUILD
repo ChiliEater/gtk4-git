@@ -72,6 +72,7 @@ makedepends=(
   sassc
   shaderc
   wayland-protocols
+  vulkan-headers
 )
 checkdepends=(weston)
 
